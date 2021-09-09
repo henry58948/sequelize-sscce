@@ -12,7 +12,7 @@ const log = require('./utils/log');
 
 // You can use sinon and chai assertions directly in your SSCCE if you want.
 const sinon = require('sinon');
-const { expect } = require('chai');
+const { expect } = require('chai'); 
 
 // Your SSCCE goes inside this function.
 module.exports = async function() {
